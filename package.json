@@ -28,7 +28,7 @@
     "axios": "^0.18.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "chart.js": "^2.7.2",
-    "datatables.net": "^1.10.16",
+    "datatables.net": "^1.10.22",
     "datatables.net-bs": "^1.10.16",
     "datatables.net-dt": "^1.10.16",
     "dotenv": "^5.0.1",
