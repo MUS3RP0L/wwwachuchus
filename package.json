@@ -27,7 +27,7 @@
   "dependencies": {
     "axios": "^0.18.1",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "datatables.net": "^1.10.16",
     "datatables.net-bs": "^1.10.16",
     "datatables.net-dt": "^1.10.16",
